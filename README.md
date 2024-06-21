@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Welcome%20to+chico's+Github&fontSize=60" style="width: 100%; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Welcome%20to+chico's+Github&fontSize=60&animation=twinkling" style="width: 100%; height: auto;" />
 </div>
 
 ![프로필 조회수](https://komarev.com/ghpvc/?username=Chico0902&color=brightgreen)
