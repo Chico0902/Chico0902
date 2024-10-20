@@ -77,5 +77,4 @@ AI 기반의 HTP 검사를 통해 사용자의 심리상태를 진단하고 심�
 
 <div align="center">
   <h2>감사합니다! 😊</h2>
-  <img src="https://your-image-link/footer-image.png" alt="Footer Image" style="width: 50%; height: auto;"/>
 </div>
